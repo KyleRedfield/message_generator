@@ -3,7 +3,7 @@
 ## How does it work?
 
 1. The program will first generate a random number.
-2. There is an object with 2 keys that
+2. There is an object with 2 keys that contain arrays. These array contain the different phrases or words that the number generator will select.
 
 ## Why I did this project:
 

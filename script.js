@@ -4,8 +4,9 @@ function randomNumberGenerator(num) {
     return Math.floor(Math.random() * num)
 }
 
-// object that holds all of the words or phrases that random are selected
+// object that holds all of the words or phrases that are randomly selected
 const wordsOfEncouragment = {
-    youWill: [],
-    youAre: [],
+    youWill: ['be amazing today', 'do great things today', 'accomplish all of your goals', 'overcome any obstacles in front of you'],
+    youAre: ['incredible', 'amazing', 'intelligent', 'beautiful', 'caring', 'unique'],
+    youCan: ['accomplish anything', 'accomplish whatever you set your mind out to do', 'turn your dreams into a reality', 'embrace change and adapt to new situations']
 }
